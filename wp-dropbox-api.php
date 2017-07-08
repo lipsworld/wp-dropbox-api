@@ -61,6 +61,12 @@ if ( ! class_exists( 'DropboxAPI' ) ) {
 			return json_decode( $body );
 		}
 		
+		/* FILES. */
+		
+		/* PAPER. */
+		
+		/* SHARING. */
+		
 		/* USERS. */
 		
 		public function get_account() {
